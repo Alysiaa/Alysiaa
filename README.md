@@ -10,7 +10,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas, estudando C# e
 
 <div align="center">
   <a href="https://github.com/Alysiaa">
-  <img height="200em" width="370" src="https://github-readme-stats.vercel.app/api?username=Alysiaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="380" src="https://github-readme-stats.vercel.app/api?username=Alysiaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysiaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
