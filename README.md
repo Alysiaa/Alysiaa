@@ -5,7 +5,7 @@ Bem vindo ao meu perfil! 🥳
 Eu sou a Ana,
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, estudando C# e Dynamics 🥰
-<img align="right" alt="Carol-Pic" height="150" style="border-radius:50px;" img src= "Alysiaa/folder/Carol-Pic.png">
+<img align="right" alt="Carol-Pic" height="150" style="border-radius:50px;" img src= "Alysiaa/Carol-Pic.png">
 ##
 
 <div align="center">
