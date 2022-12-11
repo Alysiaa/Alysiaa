@@ -1,16 +1,14 @@
-### Olá 👋
-##
-Bem vindo ao meu perfil! 🥳
-<img align="right" alt="Carol-Pic" height="150" style="border-radius:50px;" img src= "https://user-images.githubusercontent.com/120135259/206883693-0579fd99-a7a7-4b6f-b19c-e345971bb679.png">
+<h3 align="center">Olá 👋</h3>
+<h4 align="center"> Bem vindo ao meu perfil! 🥳 </h4>
+<img align="right" alt="Carol-Pic" height="120" style="border-radius:50px;" img src= "https://user-images.githubusercontent.com/120135259/206883693-0579fd99-a7a7-4b6f-b19c-e345971bb679.png">
+<h4 align="center"> Eu sou a Ana, </h4>
 
-Eu sou a Ana,
+<h4 align="center"> Atualmente estou cursando Análise e Desenvolvimento de Sistemas...</h4>
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas...
-
-E em paralelo fazendo alguns cursos sobre C# e Dynamics 🥰
+<h4 align="center">E em paralelo fazendo alguns cursos sobre C# e Dynamics 🥰</h4>
 
 ##
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alysiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Alysiaa" /> </p>
 <div align="center">
   <a href="https://github.com/Alysiaa">
   <img height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=Alysiaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
