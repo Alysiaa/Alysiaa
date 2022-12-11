@@ -1,11 +1,14 @@
 ### Olá 👋
 ##
 Bem vindo ao meu perfil! 🥳
+<img align="right" alt="Carol-Pic" height="150" style="border-radius:50px;" img src= "https://user-images.githubusercontent.com/120135259/206883693-0579fd99-a7a7-4b6f-b19c-e345971bb679.png">
 
 Eu sou a Ana,
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas, estudando C# e Dynamics 🥰
-<img align="right" alt="Carol-Pic" height="150" style="border-radius:50px;" img src= "Alysiaa/Carol-Pic.png">
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas...
+
+E em paralelo fazendo alguns cursos sobre C# e Dynamics 🥰
+
 ##
 
 <div align="center">
