@@ -8,7 +8,7 @@
 <h4 align="left">E em paralelo fazendo alguns cursos sobre C# e Dynamics 🥰</h4>
 
 ##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alysiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Alysiaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alysiaa&label=Profile%20views&color=D35400&style=flat" alt="Alysiaa" /> </p>
 <div align="center">
   <a href="https://github.com/Alysiaa">
   <img height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=Alysiaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
