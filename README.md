@@ -1,11 +1,11 @@
 <h3 align="center">Olá 👋</h3>
 <h3 align="center"> Bem vindo ao meu perfil! 🥳 </h3>
-<img align="left" alt="Carol-Pic" height="150" style="border-radius:50px;" img src= "https://user-images.githubusercontent.com/120135259/206883693-0579fd99-a7a7-4b6f-b19c-e345971bb679.png">
-<h4 align="left"> Eu sou a Ana, </h4>
+<img align="left" alt="Carol-Pic" height="150" width= "150" style="border-radius:50px;" img src= "https://user-images.githubusercontent.com/120135259/206902321-19b3645c-5ff8-4e17-8a37-108ec814b293.gif">
+<h4 align="left">&nbsp &nbsp Eu sou a Ana, </h4>
 
-<h4 align="left"> Atualmente estou cursando Análise e Desenvolvimento de Sistemas...</h4>
+<h4 align="left">&nbsp &nbsp Atualmente estou cursando Análise e Desenvolvimento de Sistemas...</h4>
 
-<h4 align="left">E em paralelo fazendo alguns cursos sobre C# e Dynamics 🥰</h4>
+<h4 align="left">&nbsp &nbsp E em paralelo fazendo alguns cursos sobre C# e Dynamics 🥰</h4>
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alysiaa&label=Profile%20views&color=D35400&style=flat" alt="Alysiaa" /> </p>
