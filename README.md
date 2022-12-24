@@ -1,4 +1,4 @@
-<h3 align="center">Olá 👋</h3>
+<h3 align="center">Olá ✌️</h3>
 <h3 align="center"> Bem vindo ao meu perfil! 🥳 </h3>
 <img align="left" alt="Carol-Pic" height="150" width= "150" style="border-radius:50px;" img src= "https://user-images.githubusercontent.com/120135259/206902321-19b3645c-5ff8-4e17-8a37-108ec814b293.gif">
 <h4 align="left">&nbsp &nbsp Eu sou a Carol, </h4>
