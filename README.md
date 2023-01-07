@@ -23,5 +23,5 @@
 
 
   ##
- ![Snake animation](https://github.com/Alysiaa/Alysiaa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Alysiaa/Alysiaa/blob/output/github-contribution-grid-snake.svg) 
   ##
