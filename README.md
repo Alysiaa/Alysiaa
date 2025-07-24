@@ -1,12 +1,12 @@
-## 👋 Olá, eu sou a Carol!
 ### 👋 Olá, eu sou a Carol!
+
 🎓 Formada em Análise e Desenvolvimento de Sistemas e Engenharia Civil.  
 💡 Apaixonada por transformar processos em soluções digitais com a Microsoft Power Platform.
 
 ---
 
 ### 💻 Tecnologias que utilizo:
-#### 💻 Tecnologias que utilizo:
+
 🔹 **Power Apps** (Canvas e Model-Driven)  
 🔹 **Power Automate** (Automações, aprovações e integrações)  
 🔹 **Dataverse** (Modelagem de dados, regras de negócio, relacionamentos)  
